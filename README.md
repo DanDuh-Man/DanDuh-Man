@@ -5,5 +5,5 @@ I am [Sidoh](https://github.com/DanDuh-Man), I like to make console based applic
 - 👀 I’m interested in pro-graming.<br>
 - 🌱 I’m currently learning Java.<br>
 - 📫 How to reach me danduhman7@gmail.com or DanDuhMan7#9508(Discord).<br>
-- 🔨 Currently working on [CloverLang](https://github.com/DanDuh-Man/CloverLang).
+- 🔨 Currently working on [CloverLang](https://github.com/Sidohh/CloverLang).
 
