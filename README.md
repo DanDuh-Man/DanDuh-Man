@@ -3,7 +3,8 @@
 I am Sidh a high-schooler and a developer from india.<br><br>
 
 # About me
-- Im currently learning Vue 
+- ❤️ Open Source Software
+- Im currently learning ![Vue](https://img.shields.io/badge/-Vue-324759?style=flat-square&logo=Vue&logoColor=45BF86)
 - How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:danduhman7@gmail.com)
 
 # Operating system and tools
