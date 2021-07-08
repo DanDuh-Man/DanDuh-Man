@@ -12,4 +12,4 @@ I am Sidh a high-schooler and a developer from india.<br><br>
 
 
 <a>![Sidh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidhhh&show_icons=true&theme=radical)</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhhh&show_icons=true&theme=radical)](https://github.com/Sidhhh/github-readme-stats)
+
