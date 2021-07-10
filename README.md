@@ -11,6 +11,7 @@ I am Sidh a high-schooler and a developer from india.<br><br>
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
 
 # Technology Stack
+![C](https://img.shields.io/badge/--3776AB?style=flat-square&logo=C&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1C?style=flat-square&logo=JavaScript&logoColor=000)
 <br><br>
