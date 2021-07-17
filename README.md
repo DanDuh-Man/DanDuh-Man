@@ -9,6 +9,7 @@ I am Sidh a high-schooler and a developer from india.<br><br>
 # Operating system and tools
 ![macOS](https://img.shields.io/badge/Linux-Pop-292e33?style=flat-square&logo=&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
+![InteliJ Idea](https://img.shields.io/badge/IDE-IntelliJ-%23007ACC?style=flat-square&logo=IntelliJ-Idea)
 
 # Technology Stack
 ![C](https://img.shields.io/badge/--3776AB?style=flat-square&logo=C&logoColor=ffffff)
