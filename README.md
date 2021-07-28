@@ -15,7 +15,7 @@ I am Sidh a high-schooler and a developer from earth 🌎.<br><br>
 ![C](https://img.shields.io/badge/--3776AB?style=flat-square&logo=C&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1C?style=flat-square&logo=JavaScript&logoColor=000)
-![Java](https://img.shields.io/badge/-Java-FF6600?style=flat-square&logo=Java&logoColor=000)
+![Java](https://img.shields.io/badge/-Java-964B00?style=flat-square&logo=Java&logoColor=000)
 
 <br><br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
