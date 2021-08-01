@@ -1,4 +1,4 @@
-# Hey シド here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Hey Sidhhh here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 I am Sidh a high-schooler and a developer from earth 🌎.<br><br>
 
