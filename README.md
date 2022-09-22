@@ -11,7 +11,3 @@
   - Python
 - Learning 
   - Javascript
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sidhoh&&style=flat-square" align="center" />
-</div>  
